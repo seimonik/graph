@@ -1,0 +1,6 @@
+unweighted directed
+4
+b|
+a|b 
+9|10 
+10|

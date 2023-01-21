@@ -1,0 +1,165 @@
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csprojAssemblyReference.cache
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\source\repos\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\student\3_1\Теория графов\Theory_Grahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\Theory_GrahpCHANGE\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\TheoryGrahp\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr24_10\ThGr24_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr30_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr31_10\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\ThGr06_11 (1)\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\nikiforovsa\Downloads\ThGr13_11 (1)\ThGr14_11\ThGr06_11\ThGr31_10\Theory_Grahp\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.exe
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.deps.json
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.json
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.runtimeconfig.dev.json
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\bin\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.AssemblyInfo.cs
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.dll
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.pdb
+C:\Users\simon\Downloads\Theory_Grahp(12_12)\Theory_Grahp(12_12)\Theory_Grahp\obj\Debug\netcoreapp3.1\Theory_Grahp.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+weighted directed
+6
+s|v1=2 v2=2 v4=2
+v1|t=2
+v2|v1=1 v3=1
+v3|t=2
+v4|v3=1 t=2
+t|
